@@ -1,0 +1,31 @@
+.boxed
+{
+ border: 1px;
+}
+p
+{
+ font-family:sans-serif;
+}
+#ff
+{
+margin-left:35px;
+}
+#le
+{
+margin-left:20px;
+}
+#b1,#b2,#b3,#b4,#b5,#b6
+{
+display:block;
+}
+p{
+font-size:20px;
+}
+th,td{
+font-size:15px;
+}
+.qui{
+background-color:#ffe4c4;
+}
+
+
